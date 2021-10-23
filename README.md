@@ -12,13 +12,13 @@ Features implemented include:
 - API code to include getting, posting, and deleting notes
 
 ### Landing Page for Live Site
-![./Assets/landing-page.jpg]
+![screenshot 1: landing page](Assets/landing-page.png)
 
 ### Clicking the button on the landing page leads to notes page, where a user may input a new note
-![./Assets/notes-page.jpg]
+![screenshot 2: notes page](Assets/notes-page.png)
 
 ### Adding a title and/or content to a note, then pressing the save button in the top right corner saves the note to the side, as shown
-![./Assets/new-note.jpg]
+![screenshot 3: note added on notes page](Assets/new-note.png)
 
 ### Clicking the trashcan icon deletes the note. 
 
