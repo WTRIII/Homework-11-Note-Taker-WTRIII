@@ -1,4 +1,40 @@
 # Homework-11-Note-Taker-WTRIII
+
+## Summary
+
+The user sought a note-taking application that allows for the creation, saving, and deletion of notes.
+
+Features implemented include:
+- Live Deployment on a server
+- The ability to switch from the home page to notes page
+- Saving Notes
+- Deleting notes
+- API code to include getting, posting, and deleting notes
+
+### Landing Page for Live Site
+![./Assets/landing-page.jpg]
+
+### Clicking the button on the landing page leads to notes page, where a user may input a new note
+![./Assets/notes-page.jpg]
+
+### Adding a title and/or content to a note, then pressing the save button in the top right corner saves the note to the side, as shown
+![./Assets/new-note.jpg]
+
+### Clicking the trashcan icon deletes the note. 
+
+## Future Development
+
+Currently, there are no plans on further developing this application and the application will not be maintained unless specifically requested. 
+
+However, potential features could include integrating a running clock at the top, timestamping notes, or otherwise converting the note-taker application into more of a timeline.
+
+Additionally, if the code were more complicated, routing could be used to clean up server.js.
+
+
+
+-------------------
+# Assignment, User Story, and Technical Criteria follows:
+
 # 11 Express.js: Note Taker
 
 ## Your Task
